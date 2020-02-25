@@ -1,0 +1,39 @@
+{
+  "name": "instamilligram",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^6.5.3",
+    "@nestjs/core": "^6.5.3",
+    "@nestjs/platform-express": "^6.5.3",
+    "@nestjs/swagger": "^3.1.0",
+    "@okta/okta-auth-js": "^2.6.3",
+    "@okta/okta-sdk-nodejs": "^2.0.1",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.9.1",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
+    "glob": "^7.1.6",
+    "pg": "^7.12.1",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.4",
+    "swagger-ui-express": "^4.0.7",
+    "ts-node": "^8.3.0",
+    "typeorm": "^0.2.22",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.2",
+    "@types/dotenv": "^8.2.0",
+    "@types/glob": "^7.1.1",
+    "@types/pg": "^7.14.1",
+    "@types/swagger-ui-express": "^4.1.1"
+  }
+}
