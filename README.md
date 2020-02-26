@@ -1,6 +1,6 @@
 # Build a Simple API with NestJS and Postgres Example
 
-This project is an example for the [Build a Secure NestJS API with Postgres]() blog post.
+This project is an example for the [Build a Secure NestJS API with Postgres](https://developer.okta.com/blog/2020/02/26/build-a-secure-nestjs-api-with-postgres) blog post.
 
 ## Requirements
 
