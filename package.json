@@ -16,7 +16,7 @@
     "@nestjs/swagger": "^3.1.0",
     "@okta/okta-auth-js": "^2.6.3",
     "@okta/okta-sdk-nodejs": "^2.0.1",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.0.0",
